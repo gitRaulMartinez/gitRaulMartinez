@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://storage.googleapis.com/cdn-ar/portfolio/me.webp" width="150" style="border-radius: 1000px"/>
+    <img src="https://storage.googleapis.com/cdn-ar/portfolio/me.webp" width="150" style="border-radius: 1000px !important"/>
   </a>
 </p>
 <h1 align="center" style="border: none; padding: 0;">

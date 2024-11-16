@@ -28,7 +28,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,angular,react,vue,flutter,astro,java,py,cpp,css,js,ts,php,docker,figma,firebase,flask,flutter,git,gitlab,linux,mysql,tailwind,vite&perline=10)](https://skillicons.dev)
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contactarme
 
 <p align="start">
 <a href="https://raulmartinez.me"><img src="https://img.shields.io/badge/-raulmartinez.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
